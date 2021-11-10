@@ -2,7 +2,7 @@ In this project I have used angular, Spring boot and MySql.
 Tools/IDE used for this project are: 
 ⦁	STS for spring boot
 ⦁	Visual code for angular
-⦁	XAMP anf mySQL Workbench for database
+⦁	XAMP and mySQL Workbench for database
 On Spring Boot side:
 ⦁	For authenetication have implemented JWT token. When a user login to our application we generate a JWT response after that whenever a request is send to the server it is filtered and we look for the authorization header.
 ⦁	For authorization we are using Granted authorities list in the User Details Implementaion.
